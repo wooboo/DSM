@@ -1,0 +1,6 @@
+﻿<common:BootStrapper x:Class="DSM.App"
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:local="using:DSM"
+                     xmlns:common="using:DSM.Common">
+</common:BootStrapper>
